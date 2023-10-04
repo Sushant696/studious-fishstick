@@ -1,0 +1,10 @@
+// Arrays and objects in react js How to use them and facts about them  
+// As react encourages immutablility which means avoid direct mutation to arrays . learn about techniques like spreading , concat and splitting techniques using slice to create new arrays without modifying the orginal data .
+
+/* Concepts to cover 
+ 1. Objects and Arrays as Props
+ 2. Local Storage (How to save and retrive data using local storage)
+ 3. Typescript Interfaces (For passing function , Arrays and objects as props)
+ 4. Sorting of tasks 
+ 5.theme  
+*/
